@@ -162,6 +162,6 @@ The action will only run for non-draft PRs. If you want to run for all PRs, you 
 runOnDraft: true
 ```
 
-## :memo: Licence
+## :memo: License
 
 MIT
